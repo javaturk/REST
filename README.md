@@ -1,5 +1,5 @@
-# RESTfulWS
+# REST
 
-Source code for the examples of "Developing RESTful Web Services with Java" training course.
+Materials for **Developing RESTful Web Services with Java** training course.
 
 Please contact me at akin@javaturk.org for your questions.
